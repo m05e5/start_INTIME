@@ -1,0 +1,22 @@
+{
+  "name": "start_intime",
+  "version": "1.0.0",
+  "description": "car pooling website START!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/angeloDiepe/start_INTIME.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/angeloDiepe/start_INTIME/issues"
+  },
+  "homepage": "https://github.com/angeloDiepe/start_INTIME#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
+}
